@@ -1,10 +1,18 @@
 {
+<<<<<<< HEAD
   "name": "assignment2node_js",
+=======
+  "name": "nodejs",
+>>>>>>> 42bd9e0740dd1571f32ae13209f72a0f3ce1d336
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+<<<<<<< HEAD
+=======
+  "keywords": [],
+>>>>>>> 42bd9e0740dd1571f32ae13209f72a0f3ce1d336
   "author": "",
   "license": "ISC",
   "description": ""
